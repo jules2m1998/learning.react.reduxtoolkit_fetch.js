@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "title": "Small Rubber Bacon",
+      "quantity": 4,
+      "id": "741c108c-7ec8-49c0-80ee-261bf48ce8e7",
+      "price": 352
+    },
+    {
+      "id": "9b74783f-3334-4d8c-813f-8a4f8b9ef42b",
+      "quantity": 5
+    }
+  ]
+}
